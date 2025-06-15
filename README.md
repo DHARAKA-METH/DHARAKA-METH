@@ -1,9 +1,9 @@
-## 👋 Hey there! I'm Dharaka Meth Deshan
+## Hey there! I'm Dharaka 👋
 
-🌱 I’m currently an **undergraduate IT student**.  
+🌱 I’m currently an **undergraduate BICT student**.  
 🔭 I’m currently working on **building scalable web applications**.  
 👯 I’m looking to collaborate on **open-source projects** and **system development**.  
-📫 **How to reach me:** deshandm699@gmail.com  
+ 
 
 ✍️ Wanna read my articles? → [Check out my Medium](https://medium.com/@dharakadeshan699)
 
@@ -17,6 +17,7 @@
 
 ---
 
-### 🔗 Let's Connect
+### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaka-meth-821ba4215/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaka-meth-821ba4215/)
+
