@@ -1,10 +1,5 @@
 ## Hey there! I'm Dharaka 👋
 
-🌱 I’m currently an **undergraduate BICT student**.  
-🔭 I’m currently working on **building scalable web applications**.  
-👯 I’m looking to collaborate on **open-source projects** and **system development**.  
- 
-
 ✍️ Wanna read my articles? → [Check out my Medium](https://medium.com/@dharakadeshan699)
 
 ---
