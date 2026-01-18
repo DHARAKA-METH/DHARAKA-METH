@@ -5,6 +5,10 @@ on:
     - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch:
 
+# Allow workflow to push to branches
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,3 +36,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
+          # github_token is automatically picked up from permissions
