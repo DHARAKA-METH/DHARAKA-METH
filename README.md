@@ -10,6 +10,8 @@
 ### 📊 GitHub Stats  
 ![DHARAKA-METH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHARAKA-METH&show_icons=true&theme=radical&count_private=true)
 
+![Snake animation](https://github.com/DHARAKA-METH/DHARAKA-METH/raw/output/github-snake-dark.svg)
+
 ---
 
 ### Let's Connect!
